@@ -1,2 +1,2 @@
-# School-Project
-My first project
+# mid-ios
+Medium iOS level app
